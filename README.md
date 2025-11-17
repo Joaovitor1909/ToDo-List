@@ -7,7 +7,7 @@ The goal is to practice DOM manipulation, events, local storage (`localStorage`)
 
 ---
   
-## 📌 Funcionalidades
+## 📌 Features
 
 - ➕ **Add tasks**
 
